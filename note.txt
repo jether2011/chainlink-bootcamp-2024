@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------
+Smart Contracts Chainlink Bootcamp 2024 - https://lu.ma/ig70bk68
+---------------------------------------------------------------------------
+PAD: https://pad.riseup.net/p/cl-pt-01
+Blockchain Hash: https://andersbrownworth.com/blockchain/hash
+Blockchain Block: https://andersbrownworth.com/blockchain/block
+
+Task Aula 1:
+Metamask Address: 0xE5435Db2b26a59083788cA861e7f86CF7338CF64
+Transfer from/to: https://sepolia.etherscan.io/tx/0xc29d319dc3954a496ca00fc4f97532ff23410944272d143808ad0e88670524b0
