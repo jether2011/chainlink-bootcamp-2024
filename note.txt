@@ -1,10 +1,32 @@
 ---------------------------------------------------------------------------
 Smart Contracts Chainlink Bootcamp 2024 - https://lu.ma/ig70bk68
 ---------------------------------------------------------------------------
-PAD: https://pad.riseup.net/p/cl-pt-01
+Slides: https://docs.google.com/presentation/d/e/2PACX-1vQDouGb19sN3qGO2zDU5VZ-JXhgnJoqVCvykLT6tbOOqX7zXqwqrJxPciBohc66nsoGs_L_UB9QZUQs/pub?start=false&loop=false&delayms=3000&slide=id.g2acdc1ce0f8_0_0
+Task form: https://docs.google.com/forms/d/e/1FAIpQLSeI_6QFddw3qMD50RC6guihcaGBJPENCBTLCAJKWvj04jnm0w/viewform
+
+Chainlink Faucets: https://faucets.chain.link/
+Sepolia Miner: https://sepolia-faucet.pk910.de/
+Alchemy Faucets: https://www.alchemy.com/faucets
+
 Blockchain Hash: https://andersbrownworth.com/blockchain/hash
 Blockchain Block: https://andersbrownworth.com/blockchain/block
 
-Task Aula 1:
+------------
+## Aula 1:
+------------
+https://pad.riseup.net/p/cl-pt-01
+
 Metamask Address: 0xE5435Db2b26a59083788cA861e7f86CF7338CF64
 Transfer from/to: https://sepolia.etherscan.io/tx/0xc29d319dc3954a496ca00fc4f97532ff23410944272d143808ad0e88670524b0
+
+------------
+## Aula 2:
+------------
+https://pad.riseup.net/p/cl-pt-02
+
+Register Contract Address: 
+- Transaction: https://sepolia.etherscan.io/tx/0xed61a6aa4e5c1ffd28ca403f123937b1552a63643662e722334d0fd06a29382a
+- Contract Address: https://sepolia.etherscan.io/address/0x03d2d2e00aac6bcb17300eedd89eb6802cc7abfd
+
+Register Access Address:
+- Contract Address: https://sepolia.etherscan.io/address/0xbe3910bb6777b8fcdee9db9c117ec437bb9d3582
