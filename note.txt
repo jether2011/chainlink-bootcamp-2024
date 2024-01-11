@@ -30,3 +30,43 @@ Register Contract Address:
 
 Register Access Address:
 - Contract Address: https://sepolia.etherscan.io/address/0xbe3910bb6777b8fcdee9db9c117ec437bb9d3582
+
+------------
+## Aula 3:
+------------
+https://pad.riseup.net/p/cl-pt-03
+https://remix.ethereum.org/#version=soljson-v0.8.21+commit.d9974bed.js&optimize=false&runs=200&gist=&lang=en&evmVersion=null
+
+Token - https://sepolia.etherscan.io/address/0x0ef12570a96bc77dcecbc0b0d62f271d377a9cf3:
+- Address: 0x0ef12570A96BC77DCECbc0B0d62f271D377A9cF3
+
+TokenShop: https://sepolia.etherscan.io/address/0xf758810ccc9f3e1f80817bda16e21243ee27c35f
+- Address: 0xF758810ccC9f3e1F80817bDA16E21243EE27c35f
+
+-----
+1. Allow on token contract the contract of TokenShop: 
+MINTER_ROLE: 0x9f2df0fed2c77648de5860a4cc508cd0818c85b8b8a1ab4ceeef8d981c8956a6
+Address: 0xF758810ccC9f3e1F80817bDA16E21243EE27c35f
+Transaction: https://sepolia.etherscan.io/tx/0x960e8df97fecafdaaf7fc7ea2c1713c1baca2a9b554df6bf1a6787f54d487c29
+
+2. (Optional) Mint tokens if you wanna
+
+3. In your Metamask wallet, send ETH to the TokenShop address, so, TokenShop will mint tokens 
+to you based on your based on ETH/USD current value
+- https://sepolia.etherscan.io/tx/0xc8dd3da9dcb0dfc801ee75658462e54dec5b08d8afad739cf19e0feae85feac3
+----
+
+Chainlink:
+https://data.chain.link/
+
+https://docs.chain.link/
+
+https://docs.chain.link/data-feeds
+
+https://docs.chain.link/data-feeds/price-feeds/addresses?network=ethereum&page=1#sepolia-testnet
+
+
+Token ERC20:
+https://ethereum.org/en/developers/docs/standards/tokens/
+
+https://eips.ethereum.org/EIPS/eip-20
