@@ -1,5 +1,8 @@
 ---------------------------------------------------------------------------
-Smart Contracts Chainlink Bootcamp 2024 - https://lu.ma/ig70bk68
+Smart Contracts Chainlink Bootcamp 2024
+LUMA: https://lu.ma/ig70bk68
+GitHub: https://github.com/solangegueiros/chainlink-bootcamp-2024
+#BootcampChainlink2024
 ---------------------------------------------------------------------------
 Slides: https://docs.google.com/presentation/d/e/2PACX-1vQDouGb19sN3qGO2zDU5VZ-JXhgnJoqVCvykLT6tbOOqX7zXqwqrJxPciBohc66nsoGs_L_UB9QZUQs/pub?start=false&loop=false&delayms=3000&slide=id.g2acdc1ce0f8_0_0
 Task form: https://docs.google.com/forms/d/e/1FAIpQLSeI_6QFddw3qMD50RC6guihcaGBJPENCBTLCAJKWvj04jnm0w/viewform
@@ -11,17 +14,17 @@ Alchemy Faucets: https://www.alchemy.com/faucets
 Blockchain Hash: https://andersbrownworth.com/blockchain/hash
 Blockchain Block: https://andersbrownworth.com/blockchain/block
 
-------------
+--------------------------------------
 ## Aula 1:
-------------
+--------------------------------------
 https://pad.riseup.net/p/cl-pt-01
 
 Metamask Address: 0xE5435Db2b26a59083788cA861e7f86CF7338CF64
 Transfer from/to: https://sepolia.etherscan.io/tx/0xc29d319dc3954a496ca00fc4f97532ff23410944272d143808ad0e88670524b0
 
-------------
+--------------------------------------
 ## Aula 2:
-------------
+--------------------------------------
 https://pad.riseup.net/p/cl-pt-02
 
 Register Contract Address: 
@@ -31,9 +34,9 @@ Register Contract Address:
 Register Access Address:
 - Contract Address: https://sepolia.etherscan.io/address/0xbe3910bb6777b8fcdee9db9c117ec437bb9d3582
 
-------------
+--------------------------------------
 ## Aula 3:
-------------
+--------------------------------------
 https://pad.riseup.net/p/cl-pt-03
 https://remix.ethereum.org/#version=soljson-v0.8.21+commit.d9974bed.js&optimize=false&runs=200&gist=&lang=en&evmVersion=null
 
@@ -70,3 +73,40 @@ Token ERC20:
 https://ethereum.org/en/developers/docs/standards/tokens/
 
 https://eips.ethereum.org/EIPS/eip-20
+
+--------------------------------------
+## Aula 4:
+--------------------------------------
+https://pad.riseup.net/p/cl-pt-04
+https://remix.ethereum.org/#version=soljson-v0.8.21+commit.d9974bed.js&optimize=false&runs=200&gist=&lang=en&evmVersion=null
+
+Slides: https://docs.google.com/presentation/d/e/2PACX-1vQDouGb19sN3qGO2zDU5VZ-JXhgnJoqVCvykLT6tbOOqX7zXqwqrJxPciBohc66nsoGs_L_UB9QZUQs/pub?start=false&loop=false&delayms=3000
+
+Tarefas: https://forms.gle/k36cuefTTwchdPHw7
+
+Faucets: https://workshop-faucet.vercel.app/faucets/fuji
+
+CCIP: https://dev.chain.link/products/ccip
+Add LINK on Fuji nn Metamask
+https://docs.chain.link/resources/link-token-contracts#fuji-testnet
+
+CCIP-BnM
+https://docs.chain.link/ccip/test-tokens#mint-tokens-in-the-documentation
+Add CCIP-BnM to wallet
+Mint 1 CCIP-BnM Token
+
+CCIPTokenSenderFujiSepolia: 0x0365D89D67D62a7d6a5F2119Bd5CB26A4D446179 (Owner: 0xE5435Db2b26a59083788cA861e7f86CF7338CF64)
+- https://testnet.snowtrace.io/address/0x0365D89D67D62a7d6a5F2119Bd5CB26A4D446179
+- https://testnet.snowtrace.io/tx/0x4b8e555bdd2b26c50626ecccfd36ecd1d8ac88e2599d41b28d061c0b4f637a9a - Transaction
+- https://testnet.snowtrace.io/address/0x0365D89D67D62a7d6a5F2119Bd5CB26A4D446179 - Contract on Avalanche Fuji Tesnet
+Transfer LINK to contract: https://testnet.snowtrace.io/tx/0x4c44ff03e8564aa78661468be15a87c4614898894e61e2b63b7aa6a3120163eb
+Transfer CCIP-BnM to contract: https://testnet.snowtrace.io/tx/0xce993725b1e3b2fc0e40d7dec665042db196c3064330e79062e709c81654878d
+
+Transfer to sepólia:
+- Receiver: 0xE5435Db2b26a59083788cA861e7f86CF7338CF64
+- 0.01 ETH - 1000000000000000000 (https://eth-converter.com/)
+1. https://testnet.snowtrace.io/tx/0x8b143b90472b2eaca18138584e80baa0011b4fcf9dc3ecbe671d4d4ad7a055f0
+2. https://ccip.chain.link/msg/0x94867fc6b471381eccb7896cad807f401e354d7ad9d3374c665df2eb9009af87
+
+Adicionar CCIP-BnM (Sepolia) no Metamask
+https://docs.chain.link/ccip/test-tokens#mint-tokens-in-the-documentation
