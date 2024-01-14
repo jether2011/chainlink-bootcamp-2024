@@ -14,17 +14,17 @@ Alchemy Faucets: https://www.alchemy.com/faucets
 Blockchain Hash: https://andersbrownworth.com/blockchain/hash
 Blockchain Block: https://andersbrownworth.com/blockchain/block
 
---------------------------------------
-## Aula 1:
---------------------------------------
+------------------------------------------------------------
+## Aula 1 - https://www.youtube.com/watch?v=mH2hkWG6OS8
+------------------------------------------------------------
 https://pad.riseup.net/p/cl-pt-01
 
 Metamask Address: 0xE5435Db2b26a59083788cA861e7f86CF7338CF64
 Transfer from/to: https://sepolia.etherscan.io/tx/0xc29d319dc3954a496ca00fc4f97532ff23410944272d143808ad0e88670524b0
 
---------------------------------------
-## Aula 2:
---------------------------------------
+------------------------------------------------------------
+## Aula 2 - https://www.youtube.com/watch?v=VaXAPYXSdGc
+------------------------------------------------------------
 https://pad.riseup.net/p/cl-pt-02
 
 Register Contract Address: 
@@ -34,9 +34,9 @@ Register Contract Address:
 Register Access Address:
 - Contract Address: https://sepolia.etherscan.io/address/0xbe3910bb6777b8fcdee9db9c117ec437bb9d3582
 
---------------------------------------
-## Aula 3:
---------------------------------------
+------------------------------------------------------------
+## Aula 3 - https://www.youtube.com/watch?v=fi1Hkc3sS5U
+------------------------------------------------------------
 https://pad.riseup.net/p/cl-pt-03
 https://remix.ethereum.org/#version=soljson-v0.8.21+commit.d9974bed.js&optimize=false&runs=200&gist=&lang=en&evmVersion=null
 
@@ -74,9 +74,9 @@ https://ethereum.org/en/developers/docs/standards/tokens/
 
 https://eips.ethereum.org/EIPS/eip-20
 
---------------------------------------
-## Aula 4:
---------------------------------------
+------------------------------------------------------------
+## Aula 4 - https://www.youtube.com/watch?v=qpymWhQUDOQ
+------------------------------------------------------------
 https://pad.riseup.net/p/cl-pt-04
 https://remix.ethereum.org/#version=soljson-v0.8.21+commit.d9974bed.js&optimize=false&runs=200&gist=&lang=en&evmVersion=null
 
@@ -110,3 +110,8 @@ Transfer to sepólia:
 
 Adicionar CCIP-BnM (Sepolia) no Metamask
 https://docs.chain.link/ccip/test-tokens#mint-tokens-in-the-documentation
+
+------------------------------------------------------------
+## Aula 5 - https://www.youtube.com/watch?v=tWjbsnSGl6I
+------------------------------------------------------------
+Tira dúvidas.
