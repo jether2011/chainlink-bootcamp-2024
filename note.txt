@@ -114,4 +114,28 @@ https://docs.chain.link/ccip/test-tokens#mint-tokens-in-the-documentation
 ------------------------------------------------------------
 ## Aula 5 - https://www.youtube.com/watch?v=tWjbsnSGl6I
 ------------------------------------------------------------
+Pad: https://pad.riseup.net/p/cl-pt-05
 Tira dúvidas.
+
+------------------------------------------------------------
+## Aula 6 - https://www.youtube.com/watch?v=jXtLZxuQix0
+------------------------------------------------------------
+Pad: https://pad.riseup.net/p/cl-pt-06
+Slides: https://docs.google.com/presentation/d/e/2PACX-1vQDouGb19sN3qGO2zDU5VZ-JXhgnJoqVCvykLT6tbOOqX7zXqwqrJxPciBohc66nsoGs_L_UB9QZUQs/pub?start=false&loop=false&delayms=3000
+Form tasks: https://forms.gle/k36cuefTTwchdPHw7
+
+NFT Contract Address: 0x73009ee3cfbd25bbb6ede5b0d67a4e0f2bee5322
+    - https://sepolia.etherscan.io/address/0x73009ee3cfbd25bbb6ede5b0d67a4e0f2bee5322
+    - https://sepolia.etherscan.io/tx/0x78def3bf3af1700998c26c78e5e59d2ea2d93a02918bdea5ebebfbd132321bc3
+
+https://automation.chain.link/ - Esta automação roda para atualizar o último NFT mintado, uma vez que ele tenha sido executado, então não rodará até que seja mintado um novo NFT.
+1. Connect you wallet
+2. Register new Upkeep
+3. Custom logic
+4. Target contract address: The PhotoAlbum address 
+5. Upkeep name
+6. PhotoAlbum Automation
+7. Starting balance (LINK) 3
+8. Click on Register Upkeep
+
+https://testnets.opensea.io/collection/photo-album-chainlink-bootcamp-2024-198
