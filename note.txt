@@ -139,3 +139,70 @@ https://automation.chain.link/ - Esta automação roda para atualizar o último 
 8. Click on Register Upkeep
 
 https://testnets.opensea.io/collection/photo-album-chainlink-bootcamp-2024-198
+
+------------------------------------------------------------
+## Aula 7 - https://www.youtube.com/watch?v=EpWqMQaHV6I
+------------------------------------------------------------
+Pad: https://pad.riseup.net/p/cl-pt-07
+Slides: https://docs.google.com/presentation/d/e/2PACX-1vQDouGb19sN3qGO2zDU5VZ-JXhgnJoqVCvykLT6tbOOqX7zXqwqrJxPciBohc66nsoGs_L_UB9QZUQs/pub?start=false&loop=false&delayms=3000
+Form tasks: https://docs.google.com/forms/d/e/1FAIpQLSeI_6QFddw3qMD50RC6guihcaGBJPENCBTLCAJKWvj04jnm0w/alreadyresponded
+
+Faucet
+https://workshop-faucet.vercel.app/faucets
+cllworkshop0101
+
+Exercicios do Bootcamp
+https://github.com/solangegueiros/chainlink-bootcamp-2024
+
+Collection Contract Address (CrossChainPriceNFT) - Sepolia: 
+    - Address: 0x28E82F5804eC81269F5DdC90027ad28a648cdf1A
+    - Deploy Transaction: https://sepolia.etherscan.io/tx/0x88ed529d5ddf06112db8d88ff56afd5309c154ae9071cf43caaa45470a6ac833
+    - Opensea Testnet: https://testnets.opensea.io/assets/sepolia/0x28e82f5804ec81269f5ddc90027ad28a648cdf1a/0
+
+Destination Contract Address (to Deploy, use the Collection Contract Address) (CrossDestinationMinter) - Sepolia: 
+    - Address: 0x311E147737D212531989EF42083693d64336D9cf
+    - Deploy Transaction: https://sepolia.etherscan.io/tx/0x25925f65ba5df29b774e5845abd9aab5f3a5736ef7cb8e99d321e9df3d962936
+    - Test Mint: https://sepolia.etherscan.io/tx/0x124e06bd4b405556dc784085fb8a1e425fc21fa714fca680ba2739940a8d482c
+    - Test Message: https://sepolia.etherscan.io/tx/0xabd60ef174d9b1044bde273d96c8875443a27c15bdc98f66183136bd7f82ae01
+
+CrossSourceMinter (to Deploy, use the Destination Minter Address) - Avalanche:
+    - Address: 0x1F914BF982B8b7b3250e5DEB501915575bF66Ee8
+    - Enviar 6 LINK para o CrossSourceMinter Address
+    - Mint on Sepolia na snowtrace: https://testnet.snowtrace.io/tx/0x523522cdc9a5121313691dabec40b078dbbbcffcfea4ffafe99f063cba0710e8
+    - Transaction na Chainlink CCIP Transaction: https://ccip.chain.link/msg/0xe699d12d0f12f9c74eede4fb5e9213b49c55b8d87ce39caadaabb554bb2f7cc7
+
+CrossSourceMinterMumbai (to Deploy, use the Destination Minter Address) - Polygon Mumbai:
+    - Address: 0xF7f78aB84c8292C46a2f4BE6b7ed7544eD2f8d49
+    - Enviar 6 LINK para o CrossSourceMinterMumbai Address
+    - Deploy Transaction: https://mumbai.polygonscan.com/tx/0x26a8730e250360ba54927f184fc5e3a29a49490a1100b08a084859cd4bef53a4
+    - Polygon Transaction: https://mumbai.polygonscan.com/tx/0xea5cad116bf6931b2d7ad58da5e7147e37cd12a4ecf5191f05ce8228294d1aa0
+    - CCIP Transaction: https://ccip.chain.link/msg/0xd9d7cf3e7ea9229500ceb7745c18dd67cccefd4937874c47f3c5ad427d18367c
+
+------------------------------------------------------------
+## Aula 8 - https://www.youtube.com/watch?v=vbVDNhGnDRI
+------------------------------------------------------------
+Aula 08
+https://pad.riseup.net/p/cl-pt-08
+
+Slides
+https://docs.google.com/presentation/d/e/2PACX-1vQDouGb19sN3qGO2zDU5VZ-JXhgnJoqVCvykLT6tbOOqX7zXqwqrJxPciBohc66nsoGs_L_UB9QZUQs/pub?start=false&loop=false&delayms=3000
+
+Tarefas
+https://forms.gle/k36cuefTTwchdPHw7
+
+https://dev.chain.link/products/vrf
+
+https://docs.chain.link/vrf/v2/security
+https://docs.chain.link/vrf/v2/best-practices
+https://docs.chain.link/vrf/v2/subscription/supported-networks#avalanche-fuji-testnet
+
+https://vrf.chain.link/
+- Create a subscription on Fuji
+- Name (Chainlink Bootcamp 2024 - JRN) - Subscription Id: 1040
+- Add funds - send 5 links to the subscription
+
+Runners Smart Contract: 
+    - Address: 0xED5B859700d8f30C0AE152D6F80b9d074c8Eb353
+    - Deploy Transaction: https://testnet.snowtrace.io/tx/0x0afe3ca887531d3840eb992dd9a9ae22b0b064c31e1faa08a9de60057272c667
+    - SafeMint - https://testnet.snowtrace.io/tx/0x6591936543a6ab1501fc2cfb67ffa5270f2746982c8917f43288b942e67fbbf2
+    - Run - https://testnet.snowtrace.io/tx/0x981e544ff94def7bd306adedee573f9d9904dd25c88fda8d0119f62d798822c5
