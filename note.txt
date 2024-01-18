@@ -206,3 +206,11 @@ Runners Smart Contract:
     - Deploy Transaction: https://testnet.snowtrace.io/tx/0x0afe3ca887531d3840eb992dd9a9ae22b0b064c31e1faa08a9de60057272c667
     - SafeMint - https://testnet.snowtrace.io/tx/0x6591936543a6ab1501fc2cfb67ffa5270f2746982c8917f43288b942e67fbbf2
     - Run - https://testnet.snowtrace.io/tx/0x981e544ff94def7bd306adedee573f9d9904dd25c88fda8d0119f62d798822c5
+
+------------------------------------------------------------
+## Aula 9 - https://www.youtube.com/watch?v=tRDVuKskfv4
+------------------------------------------------------------
+
+------------------------------------------------------------
+## Aula 10 - https://www.youtube.com/watch?v=XZW00WXaJQU
+------------------------------------------------------------
