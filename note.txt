@@ -210,7 +210,48 @@ Runners Smart Contract:
 ------------------------------------------------------------
 ## Aula 9 - https://www.youtube.com/watch?v=tRDVuKskfv4
 ------------------------------------------------------------
+Pad: https://pad.riseup.net/p/cl-pt-09
+
+Slides
+https://docs.google.com/presentation/d/e/2PACX-1vQDouGb19sN3qGO2zDU5VZ-JXhgnJoqVCvykLT6tbOOqX7zXqwqrJxPciBohc66nsoGs_L_UB9QZUQs/pub?start=false&loop=false&delayms=3000
+
+Tarefas
+https://forms.gle/k36cuefTTwchdPHw7
+
+https://blog.chain.link/ways-to-use-chainlink-functions/
+
+https://docs.chain.link/chainlink-functions
+
+https://usechainlinkfunctions.com/
+https://usechainlinkfunctions.com/posts/aviation-flight-status
+https://www.run-functions.app/
+
+https://functions.chain.link/playground
+
+https://www.npmjs.com/package/@chainlink/functions-toolkit
+
+https://functions.chain.link/fuji/
+
+Subscription: https://functions.chain.link/fuji/3173
+Smart Contract Address - GettingStartedFunctionsConsumer: 0x7E60096Ad44515b1d3f65390C90BCBa88902BA26
+
+Subscription: https://functions.chain.link/fuji/3173
+Smart Contract Address - TemperaturaFunctions: 0x03D2D2e00aAc6BCb17300EEDd89Eb6802Cc7AbFd
+
+Subscription: https://functions.chain.link/fuji/3173
+Smart Contract Address - WeatherFunctions: 0xeaa7d55AAD64b2993dAB74304Ef174aD1cAEcaDd
 
 ------------------------------------------------------------
 ## Aula 10 - https://www.youtube.com/watch?v=XZW00WXaJQU
 ------------------------------------------------------------
+Pad: https://pad.riseup.net/p/cl-pt-10
+
+Slides
+https://docs.google.com/presentation/d/e/2PACX-1vQDouGb19sN3qGO2zDU5VZ-JXhgnJoqVCvykLT6tbOOqX7zXqwqrJxPciBohc66nsoGs_L_UB9QZUQs/pub?start=false&loop=false&delayms=3000
+
+Tarefas
+https://forms.gle/k36cuefTTwchdPHw7
+
+SubscriptionID: 3173
+Solange Contract Address: 0xd8110865f9714EEFAF4b96dd71C7f45ACa0158D6
+- Jether Rois: 0xE5435Db2b26a59083788cA861e7f86CF7338CF64,1705703157,Lorena,Lorena: ☀️ -5°C
